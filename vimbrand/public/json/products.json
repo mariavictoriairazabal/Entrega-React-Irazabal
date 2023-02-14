@@ -1,0 +1,42 @@
+[
+{ 
+    "id": 1,
+    "idCategoria": "vestidos",
+    "nombre": "Vestido",
+    "marca": "Zara",
+    "modelo": "One",
+    "precio": 100000,
+    "stock": 30,
+    "img": "one.jpg"
+},
+{ 
+    "id": 2,
+    "idCategoria": "vestidos",
+    "nombre": "Vestido",
+    "marca": "Zara",
+    "modelo": "Two",
+    "precio": 100000,
+    "stock": 30,
+    "img": "two.jpg"
+},
+{ 
+    "id": 3,
+    "idCategoria": "vestidos",
+    "nombre": "Vestido",
+    "marca": "Zara",
+    "modelo": "Three",
+    "precio": 100000,
+    "stock": 30,
+    "img": "three.jpg"
+},
+{ 
+    "id": 4,
+    "idCategoria": "vestidos",
+    "nombre": "Vestido",
+    "marca": "Zara",
+    "modelo": "Four",
+    "precio": 100000,
+    "stock": 30,
+    "img": "four.jpg"
+}
+]

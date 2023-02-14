@@ -37,3 +37,18 @@
     transform: rotate(360deg);
   }
 }
+
+.cardProduct{
+  width: 19rem;
+  margin: 20px;
+}
+.cardProducts {
+  margin: 15px;
+  align-items:flex-end;
+  justify-content: center;
+}
+
+.itemDetail{
+  max-width: 500px;
+  margin-top: 20px;
+}
