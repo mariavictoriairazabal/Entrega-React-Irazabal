@@ -1,6 +1,6 @@
 import { useParams } from 'react-router-dom';
 import ItemList from '../ItemList/ItemList';
-import {consultarBDD} from '../../assets/funciones'
+import {consultarBDD} from '../../assets/functions'
 import { useState, useEffect } from 'react';
 const ItemListContainer = () => {
     const [productos, setProducts] = useState([]);
@@ -21,7 +21,7 @@ const ItemListContainer = () => {
         }
     },[categories]);
     <div className="row cardProducts">{productos}</div>
-    );
+    ;
 }
 
 export default ItemListContainer; 
