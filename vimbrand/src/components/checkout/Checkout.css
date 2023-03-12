@@ -1,0 +1,23 @@
+.checkout-box {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.checkout-contianer {
+    display: inline-block;
+    text-align: center;
+}
+
+.input-text {
+    margin-top: 12px !important;
+    margin-bottom: 8px !important;
+}
+
+.datos {
+    display: flex;
+    justify-content: center;
+    color: rgb(45, 44, 44);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -7,7 +7,7 @@
     "modelo": "One",
     "precio": 100000,
     "stock": 30,
-    "img": "one.jpg"
+    "img": "vestido1.jfif"
 },
 { 
     "id": 2,
@@ -17,7 +17,7 @@
     "modelo": "Two",
     "precio": 100000,
     "stock": 30,
-    "img": "two.jpg"
+    "img": "vestido2.jfif"
 },
 { 
     "id": 3,
@@ -27,7 +27,7 @@
     "modelo": "Three",
     "precio": 100000,
     "stock": 30,
-    "img": "three.jpg"
+    "img": "vestido3.jfif"
 },
 { 
     "id": 4,
@@ -37,6 +37,66 @@
     "modelo": "Four",
     "precio": 100000,
     "stock": 30,
-    "img": "four.jpg"
+    "img": "vestido4.jfif"
+}
+{ 
+    "id": 4,
+    "idCategoria": "vestidos",
+    "nombre": "Vestido",
+    "marca": "Zara",
+    "modelo": "Four",
+    "precio": 100000,
+    "stock": 30,
+    "img": "vestido5.jfif"
+}
+{ 
+    "id": 4,
+    "idCategoria": "vestidos",
+    "nombre": "Vestido",
+    "marca": "Zara",
+    "modelo": "Four",
+    "precio": 100000,
+    "stock": 30,
+    "img": "vestido6.jfif"
+}
+{ 
+    "id": 4,
+    "idCategoria": "vestidos",
+    "nombre": "Vestido",
+    "marca": "Zara",
+    "modelo": "Four",
+    "precio": 100000,
+    "stock": 30,
+    "img": "vestido7.jfif"
+}
+{ 
+    "id": 4,
+    "idCategoria": "vestidos",
+    "nombre": "Vestido",
+    "marca": "Zara",
+    "modelo": "Four",
+    "precio": 100000,
+    "stock": 30,
+    "img": "vestido8.jfif"
+}
+{ 
+    "id": 4,
+    "idCategoria": "vestidos",
+    "nombre": "Vestido",
+    "marca": "Zara",
+    "modelo": "Four",
+    "precio": 100000,
+    "stock": 30,
+    "img": "vestido9.jfif"
+}
+{ 
+    "id": 4,
+    "idCategoria": "vestidos",
+    "nombre": "Vestido",
+    "marca": "Zara",
+    "modelo": "Four",
+    "precio": 100000,
+    "stock": 30,
+    "img": "vestido10.jfif"
 }
 ]

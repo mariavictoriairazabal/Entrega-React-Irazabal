@@ -1,0 +1,10 @@
+.itemcount-div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 8px;
+}
+
+.itemcount-label{
+    margin: 8px;
+}

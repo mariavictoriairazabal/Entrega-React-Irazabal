@@ -1,0 +1,8 @@
+.saludo-inicial {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(34, 34, 34);
+    justify-content: center;
+    display: flex;
+}

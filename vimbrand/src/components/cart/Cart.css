@@ -1,0 +1,19 @@
+.carrito-datos {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(34, 34, 34);
+    font-size: medium;
+    justify-content: center;
+    display: flex;
+}
+
+.datos-finales {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(34, 34, 34);
+    font-size: medium;
+    justify-content: center;
+    display: flex;
+}
+
+.finalizar-compra {
+    text-align: center;
+}

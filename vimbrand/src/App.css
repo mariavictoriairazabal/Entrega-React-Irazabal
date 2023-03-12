@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #d11e95;
+  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,9 +25,8 @@
 }
 
 .App-link {
-  color: #fb6161;
+  color: #61dafb;
 }
-
 
 @keyframes App-logo-spin {
   from {
@@ -36,19 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-.cardProduct{
-  width: 19rem;
-  margin: 20px;
-}
-.cardProducts {
-  margin: 15px;
-  align-items:flex-end;
-  justify-content: center;
-}
-
-.itemDetail{
-  max-width: 500px;
-  margin-top: 20px;
 }
